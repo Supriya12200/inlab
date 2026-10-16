@@ -9,6 +9,10 @@ A lightweight hotel booking application built as a Gitflow and merge-conflict ex
 - Review a booking summary
 - Submit a booking request confirmation
 
+## Booking policy
+
+Free cancellation is available up to 48 hours before check-in.
+
 ## Run
 
 Open `index.html` in a web browser.
