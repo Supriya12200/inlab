@@ -7,6 +7,7 @@ A lightweight hotel booking application built as a Gitflow and merge-conflict ex
 - Browse room options
 - Enter guest details and dates
 - Review a booking summary
+- Submit a booking request confirmation
 
 ## Run
 
