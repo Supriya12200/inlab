@@ -11,7 +11,7 @@ A lightweight hotel booking application built as a Gitflow and merge-conflict ex
 
 ## Booking policy
 
-Free cancellation is available up to 72 hours before check-in.
+Free cancellation is available up to 24 hours before check-in. Contact the hotel for help with a booking change.
 
 ## Run
 
